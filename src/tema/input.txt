@@ -1,0 +1,174 @@
+5
+322CC
+7
+David Anghel Magda Anghel Cristi Anghel
+Bogdan Sprincenatu Maria Sprincenatu Andrei Sprincenatu
+Alexandra Duminica Anca Duminica Marian Duminica
+Robert Godeanu Mihaela Godeanu Mihai Godeanu
+Costin Bosoaga Vasilica Bosoaga Alexandru Bosoaga
+David Paduretu Mariana Paduretu Costin Paduretu
+Andrei Andreescu Carmen Andreescu Ion Andreescu
+323CC
+3
+Ion Popescu Maria Popescu Virgil Popescu
+Ion Vlad Andreea Vlad Alexandru Vlad
+John Cena Mama Cena Tata Cena
+321CA
+4
+Ioana Ionescu Andreea Ionescu Ionut Ionescu
+Student Random Mama Random Tata Random
+Cornelia Andreescu Cornelutia Andreescu Cornel Andreescu
+Alabala Portocala Mama Portocala Tata Portocala
+312CB
+5
+Boboc Bobocel Mama Bobocel Tata Bobocel
+Bobocica Bobocescu Mama Bobocescu Tata Bobocescu
+Cornel Popescu Silvia Popescu Silviu Popescu
+Andrei Deaconescu Roxana Deaconescu Razvan Deaconescu
+Mihai Eminescu Mihaela Eminescu Mihaiovici Eminescu
+341C3
+2
+Rezistent Rezistescu Mama Rezistescu Tata Rezistescu
+Ion Creanga Maria Creanga Dan Creanga
+6
+SO Partial Razvan Deaconescu 6 322CC Teo Dutu 323CC Theo Oprea
+IOCLA Total Razvan Deaconescu 6 322CC Teo Dutu 323CC Razvan Virtan 312CB David Iancu
+POO Examen Carmen Odubasteanu 3 322CC Alexandru Bonteanu 321CA Mihai Nan
+ArtificialIntelligence Total Carmen Odubasteanu 5 341C3 David Iancu
+Matematica Partial Luminita Costache 2 322CC Theo Oprea
+AllGroupsCourse Final Razvan Deaconescu 5 322CC Teo Dutu 323CC David Iancu 312CB Alexandru Bonteanu 341C3 Razvan Virtan 321CA Mihai Nan
+David Anghel 5.75 (notele SO 322CC)
+Alexandra Duminica 4.75
+Andrei Andreescu 6.00
+Robert Godeanu 2.33
+David Paduretu 3.01
+Bogdan Sprincenatu 2.99
+Costin Bosoaga 3.00
+David Anghel 6.00 (notele IOCLA 322CC)
+Alexandra Duminica 3.75
+Andrei Andreescu 4.05
+Robert Godeanu 3.16
+David Paduretu 2.12
+Bogdan Sprincenatu 3.99
+Costin Bosoaga 3.01
+David Anghel 2.00 (notele AllGroupsCourse 322CC)
+Alexandra Duminica 4.75
+Andrei Andreescu 3.05
+Robert Godeanu 5.16
+David Paduretu 5.12
+Bogdan Sprincenatu 5.99
+Costin Bosoaga 1.01
+Ion Popescu 3.12 (notele SO 323CC)
+Ion Vlad 3.24
+John Cena 1.01
+David Anghel 1.09 (notele Matematica 322CC)
+Alexandra Duminica 2.75
+Andrei Andreescu 4.05
+Robert Godeanu 3.16
+David Paduretu 1.22
+Bogdan Sprincenatu 5.99
+Costin Bosoaga 5.01
+Ion Popescu 1.12 (notele IOCLA 323CC)
+Ion Vlad 2.24
+John Cena 5.00
+Rezistent Rezistescu 3.64 (notele AllGroupsCourse 341C3)
+Ion Creanga 4.21
+Boboc Bobocel 1.99 (notele IOCLA 312CB)
+Bobocica Bobocescu 2.12
+Cornel Popescu 5.13
+Andrei Deaconescu 3.43
+Mihai Eminescu 6.00
+Rezistent Rezistescu 4.24 (notele ArtificialIntelligence 341C3) /// adaugarea se misca incet si adauga dupa prima citire din 341C3
+Divad Naghel 3.01
+Ion Creanga 2.21
+Ion Popescu 4.22 (notele AllGroupsCourse 323CC)
+Ion Vlad 5.14
+John Cena 2.00
+David Anghel 5.09 (notele POO 322CC)
+Alexandra Duminica 3.75
+Andrei Andreescu 2.05
+Robert Godeanu 1.16
+David Paduretu 4.22
+Bogdan Sprincenatu 4.99
+Costin Bosoaga 3.01
+Boboc Bobocel 3.99 (notele AllGroupsCourse 312CB)
+Bobocica Bobocescu 1.12
+Cornel Popescu 4.23
+Andrei Deaconescu 2.43
+Mihai Eminescu 6.00
+Ioana Ionescu 3.00 (Notele POO 321CA)
+Student Random 2.21
+Cornelia Andreescu 4.32
+Alabala Portocala 5.12
+Ioana Ionescu 5.00 (Notele AllGroupsCourse 321CA)
+Student Random 4.21
+Cornelia Andreescu 1.32
+Alabala Portocala 2.12
+David Anghel 3.75 (notele examen SO)
+Alexandra Duminica 1.75
+Andrei Andreescu 4.00
+Robert Godeanu 2.33
+David Paduretu 3.01
+Bogdan Sprincenatu 1.99
+Costin Bosoaga 2.00
+Ion Vlad 2.24
+John Cena 4.00
+Ion Popescu 3.12
+David Anghel 2.75 (notele examen IOCLA)
+Alexandra Duminica 3.75
+Andrei Andreescu 1.90
+Robert Godeanu 3.33
+David Paduretu 2.01
+Bogdan Sprincenatu 3.99
+Costin Bosoaga 2.00
+Ion Vlad 3.24
+John Cena 1.00
+Ion Popescu 2.12
+Boboc Bobocel 1.99
+Bobocica Bobocescu 3.12
+Cornel Popescu 2.13
+Andrei Deaconescu 1.93
+Mihai Eminescu 4.00
+David Anghel 4.00 (notele examen AllGroupsCourse)
+Alexandra Duminica 2.75
+Andrei Andreescu 3.90
+Robert Godeanu 1.33
+David Paduretu 3.01
+Bogdan Sprincenatu 1.99
+Costin Bosoaga 3.00
+Ion Vlad 1.24
+John Cena 3.99
+Ion Popescu 1.12
+Boboc Bobocel 3.99
+Bobocica Bobocescu 2.12
+Cornel Popescu 3.13
+Andrei Deaconescu 1.93
+Mihai Eminescu 2.00
+Ioana Ionescu 1.99
+Student Random 2.21
+Cornelia Andreescu 3.32
+Alabala Portocala 3.12
+Rezistent Rezistescu 3.24
+Divad Naghel 2.01
+Ion Creanga 1.21
+David Anghel 3.00 (notele examen POO)
+Alexandra Duminica 3.75
+Andrei Andreescu 1.90
+Robert Godeanu 2.33
+David Paduretu 1.99
+Bogdan Sprincenatu 3.99
+Costin Bosoaga 3.00
+Ioana Ionescu 2.00
+Student Random 3.99
+Cornelia Andreescu 2.32
+Alabala Portocala 1.12
+Rezistent Rezistescu 1.24 (notele examen ArtificialIntelligence)
+Divad Naghel 2.01
+Ion Creanga 3.91
+David Anghel 3.99 (notele examen Matematica)
+Alexandra Duminica 3.75
+Andrei Andreescu 1.05
+Robert Godeanu 2.16
+David Paduretu 3.22
+Bogdan Sprincenatu 3.99
+Costin Bosoaga 1.99
